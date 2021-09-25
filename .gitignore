@@ -1,0 +1,8 @@
+/.idea/
+/blackmap/
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/pdf/*.pdf
+/node_modules/
+/.env
+/yarn-error.log

@@ -1,0 +1,12 @@
+{
+  "apps": [{
+    "name": "donos102",
+    "script": "npm",
+    "args" : "start",
+    "cwd": ".",
+    "watch": false,
+    "env": {
+      "NODE_ENV": "production"
+    }
+  }]
+}
